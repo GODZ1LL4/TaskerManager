@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322796774967",
+    "project_id": "taskermanager-3bfdc",
+    "storage_bucket": "taskermanager-3bfdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322796774967:android:3aedfbbf1798950ba281b2",
+        "android_client_info": {
+          "package_name": "com.example.taskermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322796774967-8hjrjjq3tdo1dlotc067bchg5ldk107m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1r-S7qd3iH989wr4LEDwjfM-WYNaP02k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322796774967-8hjrjjq3tdo1dlotc067bchg5ldk107m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
